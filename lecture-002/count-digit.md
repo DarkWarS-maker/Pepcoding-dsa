@@ -17,9 +17,10 @@ Sample Input
 
 Sample Output
 8
+
 ```
 ## Solution
-``` java
+```java
 import java.util.*;
   
   public class Main{
