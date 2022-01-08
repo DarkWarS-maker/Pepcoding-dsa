@@ -2,15 +2,15 @@
 
 ## Getting Started
 
->1. [Print Z]()
+>1. [Print Z](https://github.com/DarkWarS-maker/Pepcoding-dsa/blob/main/lecture-001/print-z.html)
 
->2. [Grading System]()
+>2. [Grading System](https://github.com/DarkWarS-maker/Pepcoding-dsa/blob/main/lecture-001/grading-system.html)
 
->3. [Is A Number Prime]()
+>3. [Is A Number Prime](https://github.com/DarkWarS-maker/Pepcoding-dsa/blob/main/lecture-001/prime.html)
 
->4. [Print All Primes Till N]()
+>4. [Print All Primes Till N](https://github.com/DarkWarS-maker/Pepcoding-dsa/blob/main/lecture-001/prime-in-a-range.html)
 
->5. [Print Fibonacci Numbers Till N]()
+>5. [Print Fibonacci Numbers Till N](https://github.com/DarkWarS-maker/Pepcoding-dsa/blob/main/lecture-001/fib-till-n.html)
 
 >6. [Count Digits In A Number]()
 

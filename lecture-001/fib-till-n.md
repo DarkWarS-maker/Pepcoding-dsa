@@ -1,8 +1,8 @@
 # Print Fibonacci Numbers Till N
 
-> 1. You've to print first n fibonacci numbers.
-> 2. Take as input "n", the count of fibonacci numbers to print.
-> 3. Print first n fibonacci numbers.
+> You've to print first n fibonacci numbers.
+> Take as input "n", the count of fibonacci numbers to print.
+> Print first n fibonacci numbers.
 
 ```text
 Input Format

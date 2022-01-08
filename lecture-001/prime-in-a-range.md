@@ -1,9 +1,9 @@
 # Print All Primes Till N
 
-> 1. You've to print all prime numbers between a range. 
-> 2. Take as input "low", the lower limit of range.
-> 3. Take as input "high", the higher limit of range.
-> 4. For the range print all the primes numbers between low and high (both included).
+> You've to print all prime numbers between a range. 
+> Take as input "low", the lower limit of range.
+> Take as input "high", the higher limit of range.
+> For the range print all the primes numbers between low and high (both included).
 
 ```text
 Input Format
