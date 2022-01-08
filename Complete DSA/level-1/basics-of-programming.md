@@ -22,13 +22,13 @@
 
 >10.  [Rotate A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/rotate-a-number.html)
 
->11. [GCD & LCM](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/gcd-and-lcm.html)
+>11. [GCD & LCM](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-003/gcd-and-lcm.html)
 
->12. [Prime Factorization Of A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/prime-fact-of-number.html)
+>12. [Prime Factorization Of A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-003/prime-fact-of-number.html)
 
->13. [Pythagrean Triplet](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/pythagorean-triplet.html)
+>13. [Pythagrean Triplet](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-003/pythagorean-triplet.html)
 
->14. [The Curious Case Of Benjamin Bulbs](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/the-curious-case-of-benjamin-bulbs.html)
+>14. [The Curious Case Of Benjamin Bulbs](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-003/the-curious-case-of-benjamin-bulbs.html)
 
 ## Patterns
 
