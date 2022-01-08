@@ -4,13 +4,13 @@
 
 >1. [Print Z](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/print-z.html)
 
->2. [Grading System](https://DarkWarS-maker.github.io/Pepcoding-dsa/blob/main/lecture-001/grading-system.html)
+>2. [Grading System](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/grading-system.html)
 
->3. [Is A Number Prime](https://DarkWarS-maker.github.io/Pepcoding-dsa/blob/main/lecture-001/prime.html)
+>3. [Is A Number Prime](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/prime.html)
 
->4. [Print All Primes Till N](https://DarkWarS-maker.github.io/Pepcoding-dsa/blob/main/lecture-001/prime-in-a-range.html)
+>4. [Print All Primes Till N](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/prime-in-a-range.html)
 
->5. [Print Fibonacci Numbers Till N](https://DarkWarS-maker.github.ior/Pepcoding-dsa/blob/main/lecture-001/fib-till-n.html)
+>5. [Print Fibonacci Numbers Till N](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-001/fib-till-n.html)
 
 >6. [Count Digits In A Number]()
 
