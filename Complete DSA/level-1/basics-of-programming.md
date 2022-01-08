@@ -10,25 +10,25 @@
 
 >4. [Print All Primes Till N](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/prime-in-a-range.html)
 
->5. [Print Fibonacci Numbers Till N](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-001/fib-till-n.html)
+>5. [Print Fibonacci Numbers Till N](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/fib-till-n.html)
 
->6. [Count Digits In A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/count-digit.html)
+>6. [Count Digits In A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/count-digit.html)
 
->7. [Digits Of A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/digits-of-number.html)
+>7. [Digits Of A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/digits-of-number.html)
 
->8. [Reverse A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/reverse-a-number.html)
+>8. [Reverse A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/reverse-a-number.html)
 
->9. [Inverse Of A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/inverse-of-number.html)
+>9. [Inverse Of A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/inverse-of-number.html)
 
->10.  [Rotate A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/rotate-a-number.html)
+>10.  [Rotate A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/rotate-a-number.html)
 
->11. [GCD & LCM]()
+>11. [GCD & LCM](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/gcd-and-lcm.html)
 
->12. [Prime Factorization Of A Number]()
+>12. [Prime Factorization Of A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/prime-fact-of-number.html)
 
->13. [Pythagrean Triplet]()
+>13. [Pythagrean Triplet](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/pythagorean-triplet.html)
 
->14. [The Curious Case Of Benjamin Bulbs]()
+>14. [The Curious Case Of Benjamin Bulbs](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/the-curious-case-of-benjamin-bulbs.html)
 
 ## Patterns
 
