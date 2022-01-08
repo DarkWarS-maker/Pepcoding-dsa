@@ -12,7 +12,7 @@
 
 >5. [Print Fibonacci Numbers Till N](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/fib-till-n.html)
 
->6. [Count Digits In A Number](http://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/count-digit.html)
+>6. [Count Digits In A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/count-digit.html)
 
 >7. [Digits Of A Number](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-002/digits-of-number.html)
 
