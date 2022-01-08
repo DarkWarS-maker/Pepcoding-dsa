@@ -5,9 +5,9 @@
 
 | Category                             | Number Solved |
 | ---------------                      | :-----------: |
-| Getting Started                      |     14/14     |
-| Patterns                             |     13/20     |
-| Function and Arrays                  |     16/20     |
-| 2D Arrays                            |      5/9      |
-| String, String Builder and ArrayList |      3/6      |
-| **Total**                            |   **51/69**   |
+| Getting Started                      |     0/14      |
+| Patterns                             |     0/20      |
+| Function and Arrays                  |     0/20      |
+| 2D Arrays                            |     0/9       |
+| String, String Builder and ArrayList |     0/6       |
+| **Total**                            |   **0/69**    |
