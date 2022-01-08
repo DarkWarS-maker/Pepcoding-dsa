@@ -19,8 +19,10 @@ Sample Input
 Sample Output
 1
 4
+
 ```
 ## Solution
+
 ```java
 import java.util.*;
   

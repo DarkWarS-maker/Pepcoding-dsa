@@ -18,9 +18,11 @@ Sample Input
 
 Sample Output
 2 2 2 2 2 3 3 5
+
 ```
 ## Solution
-``` java
+
+```java
 import java.util.*;
 
 public class Main{

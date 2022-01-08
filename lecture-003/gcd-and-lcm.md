@@ -29,6 +29,7 @@ Sample Output
 
 ```
 ## Solution
+
 ```java
 import java.util.*;
     
@@ -53,4 +54,5 @@ import java.util.*;
       System.out.println(lcm);
      }
     }
+
 ```
