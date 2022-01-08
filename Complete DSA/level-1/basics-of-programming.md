@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-[Print Z](https://github.io/DarkWarS-maker/Pepcoding-dsa/lecture-001/print-z.html)
+[Print Z](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-001/print-z.html)
 
 >2. [Grading System](https://github.com/DarkWarS-maker/Pepcoding-dsa/blob/main/lecture-001/grading-system.html)
 
