@@ -8,6 +8,45 @@
 | Getting Started                      |     0/14      |
 | Patterns                             |     0/20      |
 | Function and Arrays                  |     0/20      |
-| 2D Arrays                            |     0/9       |
+| 2D Arrays                            |     0/10      |
 | String, String Builder and ArrayList |     0/6       |
 | **Total**                            |   **0/69**    |
+
+## [Recursion and Backtracking]()
+
+| Category                             | Number Solved |
+| ---------------                      | :-----------: |
+| Introduction to Recursion            |     0/8       |
+| Recursion in Arrays                  |     0/6       |
+| Recursion with Arraylists            |     0/5       |
+| Recursion on the way up              |     0/7       |
+| Recursion Backtracking               |     0/4       |
+| **Total**                            |   **0/30**    |
+
+
+## [Basic Data Structures]()
+
+| Category                             | Number Solved |
+| ------------------                   | :-----------: |
+| Stacks and Queues                    |      0/0      |
+| Linked Lists                         |      0/0      |
+| Generic Tree                         |      0/0      |
+| Binary Tree                          |      0/0      |
+| Binary Search Tree                   |      0/0      |
+| **Total**                            |    **0/0**    |
+
+## [Dynamic Programming]()
+
+| Category                             | Number Solved |
+| ---------------                      | :-----------: |
+| Dynamic Programming and Greedy       |     0/0       |
+| Time and Space Complexity            |     0/0       |
+| **Total**                            |   **0/0**    |
+
+
+
+
+## [OOPS]()
+
+## [Advanced Data Structure]()
+## [Miscellaneous]()
