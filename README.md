@@ -5,12 +5,12 @@
 
 | Category                             | Number Solved |
 | ---------------                      | :-----------: |
-| Getting Started                      |     0/14      |
+| Getting Started                      |     10/14      |
 | Patterns                             |     0/20      |
 | Function and Arrays                  |     0/20      |
 | 2D Arrays                            |     0/10      |
 | String, String Builder and ArrayList |     0/6       |
-| **Total**                            |   **0/69**    |
+| **Total**                            |   **10/69**    |
 
 ## [Recursion and Backtracking]()
 

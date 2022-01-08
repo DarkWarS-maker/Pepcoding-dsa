@@ -12,15 +12,15 @@
 
 >5. [Print Fibonacci Numbers Till N](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-001/fib-till-n.html)
 
->6. [Count Digits In A Number]()
+>6. [Count Digits In A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/count-digit.html)
 
->7. [Digits Of A Number]()
+>7. [Digits Of A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/digits-of-number.html)
 
->8. [Reverse A Number]()
+>8. [Reverse A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/reverse-a-number.html)
 
->9. [Inverse Of A Number]()
+>9. [Inverse Of A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/inverse-of-number.html)
 
->10.  [Rotate A Number]()
+>10.  [Rotate A Number](https://DarkWarS-maker.github.ior/Pepcoding-dsa/lecture-002/rotate-a-number.html)
 
 >11. [GCD & LCM]()
 
