@@ -66,11 +66,11 @@
 
 >17. [Pattern 17](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-007/pattern-17.html)
 
->18. [Pattern 18](ttps://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-007/pattern-18.html)
+>18. [Pattern 18](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-007/pattern-18.html)
 
->19. [Pattern 19](ttps://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-007/pattern-19.html)
+>19. [Pattern 19](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-007/pattern-19.html)
 
->20. [Pattern 20](ttps://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-007/pattern-20.html)
+>20. [Pattern 20](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-007/pattern-20.html)
 
 ## Function and Arrays
 
