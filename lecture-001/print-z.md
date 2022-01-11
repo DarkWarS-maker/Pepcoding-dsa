@@ -18,6 +18,10 @@ Sample Output
  *
 *****
 ```
+## Dry Run
+
+![Screenshot 2022-01-11 133809](https://user-images.githubusercontent.com/64803628/148904470-4edd2e9b-9ec8-466c-abc9-03d119f8dd4e.png)
+
 
 ## Solution
 
