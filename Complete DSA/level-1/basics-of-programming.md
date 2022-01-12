@@ -146,3 +146,20 @@
 >5. [ Print All Permutations Of A String Iteratively]()
 >6. [ Remove Primes]()
 
+# Recursion and Backtracking
+
+## Introduction to Recursion
+
+> 1.[Print Decreasing](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/print-decreasing.html)
+
+> 2.[Print Increasing](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/print-increasing.html)
+
+> 3.[Print Increasing Decreasing](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/print-increasing-decreasing.html)
+
+> 4.[Factorial](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/factorial.html)
+
+> 5.[Power-linear](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/power-linear.html)
+
+> 6.[Print Zigzag](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/print-zig-zag.html)
+
+> 7.[Tower Of Hanoi](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/toh-official.html)
