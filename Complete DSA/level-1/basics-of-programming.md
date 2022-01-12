@@ -158,13 +158,36 @@
 
 > 4.[Factorial](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/factorial.html)
 
-> 5.[Power-linear](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/power-linear.html)
+> 5.[Power-linear](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-017/power-linear.html)
 
-> 6.[Print Zigzag](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/print-zig-zag.html)
+> 6.[Power-logarithmic](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-017/power-logarithmic.html)
 
-> 7.[Tower Of Hanoi](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-016/toh-official.html)
+> 7.[Print Zigzag](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-017/print-zig-zag.html)
+
+> 8.[Tower Of Hanoi](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-017/toh-official.html)
 
 ## Recursion in Arrays
 
+> 1.[Display Array](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-018/display-array.html)
+
+> 2.[Display Array in reverse](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-018/display-array-in-reverse.html)
+
+> 3.[Max of An Array](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-018/max-of-an-array.html)
+
+> 4.[First Index](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-018/first-index.html)
+
+> 5.[Last Index](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-018/last-index.html)
+
+> 6.[All Indices Of Array](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-019/all-indices-of-array.html)
 
 ## Recursion with Arraylists
+
+> 1.[Get Subsequence](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-019/get-subsequence.html)
+
+> 2.[Get Kpc](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-019/get-kpc.html)
+
+> 3.[Get Stair Paths](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-019/get-stair-paths.html)
+
+> 4.[Get Maze Paths](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-019/get-maze-paths.html)
+
+> 5.[Get Maze Path With Jumps](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-020/get-maze-with-paths.html)
