@@ -207,3 +207,13 @@
 > 6.[Print Permutations](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-021/print-permutations.html)
 
 > 7.[Print Encoding](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-021/print-encodings.html)
+
+## Recursion Backtracking
+
+> 1.[Flood Fill](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-022/flood-fill.html)
+
+> 2.[Target Sum Subset](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-022/target-sum-subsets.html)
+
+> 3.[N Queens](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-022/n-queens.html)
+
+> 4.[Knights Tour](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-022/knights-tour.html)
