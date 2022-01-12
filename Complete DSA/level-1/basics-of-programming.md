@@ -193,3 +193,17 @@
 > 5.[Get Maze Path With Jumps](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-020/get-maze-with-paths.html)
 
 ## Recursion on the way up
+
+> 1.[Print Subsequence](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-020/print-subsequence.html)
+
+> 2.[Print Kpc](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-020/print-kpc.html)
+
+> 3.[Print Stair Paths](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-020/print-stair-paths.html)
+
+> 4.[Print Maze Path](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-020/print-maze-paths.html)
+
+> 5.[Print Maze Path with Jumps](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-021/print-maze-path-with-jumps.html)
+
+> 6.[Print Permutations](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-021/print-permutations.html)
+
+> 7.[Print Encoding](https://DarkWarS-maker.github.io/Pepcoding-dsa/lecture-021/print-encodings.html)
