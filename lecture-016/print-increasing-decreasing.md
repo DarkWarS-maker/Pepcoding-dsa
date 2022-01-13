@@ -36,6 +36,9 @@ Sample Output
 2
 3
 ```
+## Dry Run
+![Screenshot 2022-01-13 141037](https://user-images.githubusercontent.com/64803628/149295616-acf2537a-63f1-47e5-bae7-d3056820aa3d.png)
+
 ## Solution
 ```java
 import java.io.*;
