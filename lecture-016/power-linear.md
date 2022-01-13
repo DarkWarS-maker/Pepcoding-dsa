@@ -25,6 +25,9 @@ Sample Input
 Sample Output
 32
 ```
+## Dry Run
+![Screenshot 2022-01-13 141453](https://user-images.githubusercontent.com/64803628/149296291-f6465839-a22f-49a1-8d7e-aeb254783392.png)
+
 ## Solution
 ```java
 import java.io.*;

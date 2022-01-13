@@ -21,6 +21,9 @@ Sample Input
 Sample Output
 120
 ```
+## Dry Run
+![Screenshot 2022-01-13 141811](https://user-images.githubusercontent.com/64803628/149296722-2e5f2014-cb9b-4fd1-b7d2-edb2ba526b77.png)
+
 ## Solution
 ```java
 import java.io.*;

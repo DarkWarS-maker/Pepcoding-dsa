@@ -23,6 +23,10 @@ Sample Output
 excellent
 
 ```
+## Dry Run
+![Screenshot 2022-01-13 125953](https://user-images.githubusercontent.com/64803628/149285145-82394c73-3b4e-4d1b-a1b2-b59bc6d2f9a6.png)
+
+
 ## Solution
 ``` java
 import java.util.*;

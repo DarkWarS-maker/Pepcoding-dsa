@@ -19,8 +19,10 @@ Output Format
 
 Constraints
 1 <= n < 40
+
 Sample Input
 10
+
 Sample Output
 0
 1
@@ -34,6 +36,10 @@ Sample Output
 34
 
 ```
+## Dry Run
+![Screenshot 2022-01-13 135655](https://user-images.githubusercontent.com/64803628/149293386-a5641eab-e8c8-42c8-a7d6-8dac103e2b2e.png)
+
+
 ## Solution
 ``` java
 import java.util.*;

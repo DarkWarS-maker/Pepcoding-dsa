@@ -32,6 +32,9 @@ Sample Output
 23
 
 ```
+## Dry Run
+![Screenshot 2022-01-13 125520](https://user-images.githubusercontent.com/64803628/149284543-0c099fc0-16ec-40fa-8784-2cbce9e5afd1.png)
+
 
 ## Solution
 
