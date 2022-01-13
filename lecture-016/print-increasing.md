@@ -30,6 +30,10 @@ Sample Output
 4
 5
 ```
+
+## Dry Run
+![Screenshot 2022-01-13 140259](https://user-images.githubusercontent.com/64803628/149294423-0c782888-5930-4f41-ae2e-ef60b2397888.png)
+
 ## Solution
 ```java
 import java.io.*;
