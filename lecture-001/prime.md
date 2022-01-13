@@ -37,6 +37,8 @@ not prime
 prime
 
 ```
+## Dry Run
+![Screenshot 2022-01-13 124744](https://user-images.githubusercontent.com/64803628/149283566-fb74186a-4fd6-43f1-8539-b46e5e76b09d.png)
 
 ## Solution
 
